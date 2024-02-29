@@ -1,6 +1,6 @@
 # Todo Backend
 
-This project is a backend application for managing todo tasks. It includes CRUD (Create, Read, Update, Delete) methods for managing tasks, as well as functionality for uploading images using Multer and Sharp libraries and storing them on Cloudinary database. The technologies used in this project include Express.js, Node.js, JavaScript, MongoDB, and Mongoose.
+This project is a backend application for managing todo tasks. It includes CRUD (Create, Read, Update, Delete) methods for managing tasks, as well as functionality for uploading images using Multer and Sharp libraries and storing them on Cloudinary database. The technologies used in this project include Express.js, Node.js, JavaScript, MongoDB, and Mongoose .
 
 ## Features
 
